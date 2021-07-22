@@ -152,5 +152,5 @@ Boolean Type (true or false )
 
 # for boolean operator
 # print ( True or False)
-# print ( False or False)
+print ( False or False)
 
